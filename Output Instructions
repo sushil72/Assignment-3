@@ -26,6 +26,7 @@ ans=>Keywords are reserved words and that meaning is already present in the c li
       
       
 8. Explore the use of type modifiers in C language.
+ans=>modifiers are the special keywords defined in C with special meanings. e.g. unsigned ,double ,integer ,long.
 
 9. Can you assign a character constant in an int variable?
 ans=> yes we can assign character contant in int variable but , its store its ASCII value into it.
